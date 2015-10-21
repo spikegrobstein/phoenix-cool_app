@@ -1,5 +1,13 @@
 # CoolApp
 
+> This is an example app demoing my embedded_schema question that I posted to:
+> http://stackoverflow.com/questions/33176560/updating-records-that-use-embeds-many
+> This is a recreation of my situation as best as I can manage from memory and reconstructing git history.
+
+To see it in action:
+
+    mix run test-track.exs
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`

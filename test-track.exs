@@ -8,7 +8,7 @@ track_params = [%{
   album: "Album 1",
   album_sid: "albumsid",
   album_art: [%{
-    "url" => "http://foo.com",
+    "url" => "http://foot.com",
     "height" => 500,
     "width" => 500
   },
